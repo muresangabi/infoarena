@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411845997 source:c:\cpp\maxsecv\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+

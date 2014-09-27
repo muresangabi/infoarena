@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1411850506 source:c:\cpp\difprim\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<bitset>
+
