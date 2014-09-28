@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1411925455 source:c:\users\gabita\desktop\i10_prime2\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
