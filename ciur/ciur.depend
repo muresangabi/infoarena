@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1410439814 source:c:\users\gabita\desktop\c+\theory\ciur\main.cpp
+	<iostream>
+	<fstream>
+

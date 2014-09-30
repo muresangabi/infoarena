@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1409550882 source:c:\users\gabita\desktop\c+\infoarena\cmmdc\main.cpp
+	<fstream>
+	<iostream>
+

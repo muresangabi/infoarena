@@ -1,4 +1,3 @@
-#include <iostream>
 #include <fstream>
 #include <algorithm>
 using namespace std;
@@ -29,8 +28,10 @@ int main()
             lg[++m]=lungime;
         }
     }
+    for(int i =1 ; i<=m; i++){
+        fout<<lg[i]<<' ';
+    }
     sort(lg+1,lg+m+1);
-    // sort(a + 1, a + n + 1); // a , n = lg lui
     fout<<lg[m]+lg[m-1]<<'\n';
 
     return 0;
