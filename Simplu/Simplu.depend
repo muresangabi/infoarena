@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1412189953 source:c:\infoarena\simplu\main.cpp
+	<fstream>
+	<iostream>
+
